@@ -3,6 +3,7 @@
 
 🔭 I’m currently working on **KPU as a member of the KPPS**. 👨‍💻 All of my projects are available at [Portofoliio](https://portfolio.nurlaelabulan.my.id/). 📝 I regularly write articles on [Arsip Pikran Saya](https://nurlaelabulan.my.id/blog)
 
+![](https://pin.it/450hvAdrX)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 <br>
