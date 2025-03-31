@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bulan</h1>
 <h3 align="center">A passionate Data Analyst from Indonesia</h3> <br>
 
-- 🔭 I’m currently working on **KPU as a member of the KPPS**
-- 👨‍💻 All of my projects are available at [Portofoliio](https://portfolio.nurlaelabulan.my.id/)
+🔭 I’m currently working on **KPU as a member of the KPPS**. 👨‍💻 All of my projects are available at [Portofoliio](https://portfolio.nurlaelabulan.my.id/). 📝 I regularly write articles on [Arsip Pikran Saya](https://nurlaelabulan.my.id/blog)
 
-- 📝 I regularly write articles on [Arsip Pikran Saya](https://nurlaelabulan.my.id/blog)
-- 📫 How to reach me **contact@nurlaelabulan.my.id**
+
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 <br>
 
 ## How to reach me:
@@ -24,9 +23,6 @@
 
 <!-- Top Contributed Repo -->
 ![](https://github-contributor-stats.vercel.app/api?username=Lanlanb&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
-### Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Lanlanb&icon=3&color=1)](https://visitcount.itsvg.in)
