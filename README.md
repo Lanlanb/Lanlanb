@@ -1,3 +1,5 @@
+![](https://github.com/Lanlanb/Lanlanb/blob/49d29051e8da0677b0c18c6f1a16570aa56a03d9/Assets/Vanilla%401x-0.5s-255px-139px.svg)
+
 <h1 align="center">Hi 👋, I'm Bulan</h1>
 <h3 align="center">A passionate Data Analyst from Indonesia</h3> <br>
 
