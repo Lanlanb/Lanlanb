@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Data Analyst from Indonesia</h3> <br>
 
 - 🔭 I’m currently working on **KPU as a member of the KPPS**.
-- 👨‍💻 All of my projects are available at [Portofolio](https://portfolio.nurlaelabulan.my.id/).
-- 📝 I regularly write articles on [Arsip Pikran Saya](https://nurlaelabulan.my.id/blog).
+- 👨‍💻 All of my projects are available at [Portofolio](https://nurlaelabulan.my.id/).
+- 📝 I regularly write articles on [Arsip Pikran Saya](https://nurlaelabulan.my.id/postingan-saya).
 
 <!-- GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=Lanlanb&theme=nord&no-frame=true&no-bg=false&margin-w=4)
